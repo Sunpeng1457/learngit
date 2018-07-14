@@ -1,7 +1,0 @@
-Hello Git
-git is a version control system
-first version;
-Hello World;
-This is second version;
-Secondday
-First version`
